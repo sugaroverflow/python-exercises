@@ -11,12 +11,16 @@ isPal = True
 
 
 while(num < length/2 + 1):
+	print("----> num is: " + str(num))
+	print(word[num:num+1] + " , " + word[-num-1])
 	if(word[num:num+1] == word[-num-1]):
 		isPal = True
 		num = num + 1
 	else:
 		isPal = False
 		num = num + 1
+	if (isPal == False):
+		break
 
 if(isPal == True):
 	print "Yes, a palindrome!"
