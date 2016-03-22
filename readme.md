@@ -3,7 +3,11 @@ The homework challenges all deal with *while loops*
 ### palindrome-test/
 Write a program that will read a line of text from the user and determine whether or not the text is a palindrome. *ignore upper or lower case*
 
-`python palindrome-test/exercise7.py`
+`python palindrome-test/practice.py` contains an implementation with *only while loops*
+
+`python palindrome-test/practice2.py` contains a slightly different implementation we worked out together over a screenshare
+
+`python palindrome-test/exercise7.py` is the final and cleanest solution
 
 ### prime-number/
 
