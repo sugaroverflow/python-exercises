@@ -17,39 +17,14 @@ Write a program that will display the following configuration of "`*`"s using wh
 
 `python star-challenge/parta.py` for each filename (partb/partc/partd)
 
-(a)
-          *
-          **
-          ***
-          ****
-          *****
-          ******
+(a)![star challenge a](https://github.com/sugaroverflow/python-exercises/blob/master/star-challenge/star01.png)
 
 
-
-(b)
-          ******
-          *****
-          ****
-          ***
-          **
-          *
+(b)![star challenge b](https://github.com/sugaroverflow/python-exercises/blob/master/star-challenge/star02.png)
 
 
-
-(c)   
-               *
-              **
-             ***
-            ****
-           *****
-          ******
+(c)![star challenge c](https://github.com/sugaroverflow/python-exercises/blob/master/star-challenge/star03.png)
 
 
-(d)   
-               *
-              ***
-             *****
-            *******
-           *********
-          ***********
+(d)![star challenge d](https://github.com/sugaroverflow/python-exercises/blob/master/star-challenge/star04.png)
+   
